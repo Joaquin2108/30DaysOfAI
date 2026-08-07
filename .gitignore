@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Streamlit secrets (Snowflake credentials)
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS files (macOS)
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.swp
