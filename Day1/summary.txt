@@ -1,0 +1,10 @@
+Summary:
+
+Day 1 focuses on connecting a Streamlit application to a Snowflake database.
+After establishing the connection, a simple query will be executed to verify that it works by
+displaying the Snowflake version in the app. The first step is to create a free Snowflake trial
+account, which provides 120 days of access and enough credits to complete the 30-day challenge and
+explore additional features.
+
+
+https://signup.snowflake.com/?trial=student&cloud=aws&region=us-west-2&utm_source=streamlit-campaign&utm_campaign=30daysofai
