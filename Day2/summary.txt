@@ -1,3 +1,7 @@
 For today's challenge, our goal is to run a large language model (LLM) directly within Snowflake.
 We need to create a simple Streamlit interface that accepts a user's prompt, sends it to a Snowflake Cortex
-AI_COMPLETE function, and gets a response. Once that's done, we will display the AI's generated response back to the user in the app.
+AI_COMPLETE function, and gets a response. Once that's done, we will display the AI's generated response back
+to the user in the app.
+
+
+!!! day was a fail because a paid account is needed !!!
