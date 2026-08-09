@@ -1,0 +1,3 @@
+For today's challenge, our goal is to call a Snowflake Cortex LLM using the OpenAI-compatible REST API.
+We'll build a Streamlit app that lets a user select a model, enter a prompt, and then stream the response
+back in real-time.
